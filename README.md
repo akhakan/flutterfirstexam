@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-<img src="ReadMeImages/Screen.png" alt="Screen.png" width="400" style="border: 2px solid #cccccc;" />
+<img src="ReadMeImages/Screen.png" alt="Screen.png" width="400" style="border: 2px solid #000000;" />
 
 </td>
 <td>
