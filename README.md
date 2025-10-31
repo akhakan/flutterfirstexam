@@ -3,10 +3,7 @@
 <table>
 <tr>
 <td>
-
-## 🖼️ Tasarım Görseli
 ![Screen](ReadMeImages/Screen.png)
-
 </td>
 <td>
 
@@ -17,10 +14,6 @@ Kullanıcı giriş ekranı sade, görsel odaklı ve kullanıcı dostu bir arayü
 
 Proje tek bir ekran üzerinden çalışmaktadır:
 - **Giriş Ekranı** – Logo, arka plan görselleri ve “Giriş” butonu içermektedir.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -39,6 +32,10 @@ Proje tek bir ekran üzerinden çalışmaktadır:
 │ └── main.dart # Ana uygulama dosyası
 └── pubspec.yaml
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
