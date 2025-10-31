@@ -4,7 +4,10 @@
 <tr>
 <td>
 
-![Screen](ReadMeImages/Screen.png)
+<img src="ReadMeImages/Screen.png" 
+     alt="Screen.png 
+     width="400" 
+     style="border: 2px solid #CCCCCC;" />
 
 </td>
 <td>
